@@ -10,3 +10,4 @@ https://cli.github.com/
 https://zksync2-testnet.zksync.dev
 
 
+https://education.github.com/benefits/offers
