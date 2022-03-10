@@ -11,6 +11,7 @@ zkSync alpha testnet
 New RPC URL: https://zksync2-testnet.zksync.dev
 Chain ID: 280
 #WebSocket URL
-WebSocket URL: wss://zksync2-testnet.zksync.dev/ws
+ 
+ WebSocket URL: wss://zksync2-testnet.zksync.dev/ws
 
 #grabbytabbyvsstick_stickybot
