@@ -9,6 +9,7 @@ https://cli.github.com/
 
 zkSync alpha testnet
 New RPC URL: https://zksync2-testnet.zksync.dev
+
 Chain ID: 280
 #WebSocket URL
  
