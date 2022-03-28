@@ -10,6 +10,8 @@ https://github.com/dappuniversity/trading-bot.git
                         https://zksync2-testnet.zksync.dev
 
 
-         https://education.github.com/benefits/offers
+                  https://education.github.com/benefits/offers
          
-         app.safuu.com
+        
+        
+            www.safuu.com
