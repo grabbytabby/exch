@@ -11,3 +11,5 @@ https://github.com/dappuniversity/trading-bot.git
 
 
          https://education.github.com/benefits/offers
+         
+         app.safuu.com
