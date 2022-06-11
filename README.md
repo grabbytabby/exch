@@ -25,3 +25,12 @@ React-Native |Expo |React |JavaScript (ES6) |HTML & CSS | Core PHP | Laravel | M
                           NFTMusicPlayer Broker web site with moderator designer,
                 MUsicMascot trading bot, and musicfrequency trading miner. 
                              
+
+
+b2evolution is an advanced weblog tool, i-e software allowing you to run your own blogs, newsfeeds or even photo stream.
+
+b2evolution is a medium scale CMS centered around the Blog concept, fully featured with multiple blogs, content/presentation separation, full user management, full internationalization (i18n), workflow management… and extending towards features normally provided by Wikis, Trackers or hierarchy driven CMSes.
+
+b2evolution is free, open, and available to anyone under the GNU/GPL license.
+
+https://b2evolution.net/
